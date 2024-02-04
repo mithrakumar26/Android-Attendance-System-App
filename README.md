@@ -2,7 +2,6 @@
 # Android-Attendance-App
 
 
-
 Android is the ideal platform for developing such an application due to the wide variety of devices it supports.
 
 android developer, Java, Android Studio, Xml ·
@@ -41,4 +40,3 @@ class then register the number of subjects in that class and can mark the attend
  	<li>Password :-admin123</li>
 </ul>
 &nbsp;
-<h3>Installation :</h3>
